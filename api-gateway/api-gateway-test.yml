@@ -1,5 +1,5 @@
 zuul:
   routes:
     httpbin:
-      path: /httpbin/*
+      path: /httpbin/****
       url: http://httpbin.org
