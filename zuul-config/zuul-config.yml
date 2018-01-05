@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    httpbin:
+      path: /httpbin/*
+      url: http://httpbin.org
